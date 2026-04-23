@@ -1,29 +1,24 @@
-# Application: [Your Name]
-
-> **Instructions:** Copy this file to `applications/your-name.md` (use kebab-case — e.g. `priya-sharma.md`).
-> Fill in each of the 5 sections below. Delete these instructions before you open your PR.
+# Application: Naman Jain
 
 ---
 
 ## 1. Name
 
-_Your full name._
+Naman Jain
 
 ## 2. Portfolio
-
-_Link to your portfolio, site, Dribbble, Behance, Notion — anywhere we can see your work._
+https://drive.google.com/file/d/1TQou89_LpXe1Zjasa4q9KCduqjcZwqIF/view?usp=sharing
 
 ## 3. LinkedIn
 
-_Link to your LinkedIn profile._
+https://www.linkedin.com/in/naman-jain-b53899137/
 
 ## 4. A project you've shipped recently
 
-_Link to something you've shipped in the last 6–12 months. Add 2–4 sentences: what it is, what you did on it, and what you'd change now._
+I am Building an Ecommerce App for my Fathers Wholesale Business - That's not Native but used Webview to migrate from Web to APP , It's not an Project but Going to get Released in Playstore to User's . We were Online but due to Cost in GCP we need to Stop and Thought of Migrating to use Push Notification and UI Experience in thinking of Tier 3 City . The Demo is not Updated we have gone too far from here with Google Maps Integrated , Automatic Rider Assignment using Priority Queue both managed by Admin panel and Rider Link .Using AI Planner to plan household Budget and Recommend Product Accordinly to plan Monthly Rashan  https://drive.google.com/file/d/1TQou89_LpXe1Zjasa4q9KCduqjcZwqIF/view?usp=sharing - I would love to give live Demo on my Testing Phone.
 
 ## 5. Why you want to join Amber
-
-_3–5 sentences. Please don't write "I'm passionate about design." Tell us what specifically pulls you to Amber — the product, the students we serve, the team, the problem space. Be honest._
+I was Working at Opentext - I am hybrid Personality kind of Early Entrepreneur Handling Development , Product Thinking and "BUSINESS ORIENTED" - I can Fit in Multiple Space to Gain experience.
 
 ---
 
